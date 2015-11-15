@@ -1,3 +1,6 @@
+ORIGINALY FROM: https://code.google.com/p/ios-ftp-server/
+----------------------------------------------------------
+
 DiddyFtpServer is a very simple Ftp server library written in Cocoa/Objective C that you can include into your 
 projects to add file access.
 
